@@ -28,8 +28,8 @@ That's not what I want.  I want to represent Clojure data -- any Clojure
 data, with an emphasis on what is most common -- as XML.
 
 Since XML requires a root element, I require that the data given to emit as XML
-be a map: a single map.  But that's true only at the top level.  It supports
-sequences once you get past the root element.
+be a map: a single map.  Hence, the name of the package.  But that's true only
+at the top level.  It supports sequences once you get past the root element.
 
 # Dependencies
 

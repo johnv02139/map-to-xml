@@ -1,0 +1,5 @@
+/target
+/.nrepl-port
+/.lein-failures
+/commit.log
+/diff.diff
